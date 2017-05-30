@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" Simple pattern generator """
+""" Simple pattern generator based on a Quora question."""
 n = int(raw_input('Enter the sequence length:'))
 if n <= 0: raise Exception('Valid non-zero positive integer should be entered.')
 if n >= 26: raise Exception("Number greater than twenty-five cannot be entered.')
