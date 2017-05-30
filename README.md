@@ -1,3 +1,5 @@
 # Starter
 Scripts wrote for fun ;-)
+Contribute to it as much as you can.
+
 
